@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oolewaeja.vaekek.dev/sitemap.xml
